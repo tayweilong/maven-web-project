@@ -8,7 +8,7 @@
  
         Name:<input type="text" name="userName"/><br/>
         Password:<input type="password" name="password"/><br/>
-        Email  Id:<input type="text" name="email" /><br/>
+        Email Id:<input type="text" name="email" /><br/>
         Language: <select name="language">
             <option>Hindi</option>
             <option>English</option>
@@ -18,4 +18,4 @@
  
     </form>
 </body>
-</html>
+</html>s
